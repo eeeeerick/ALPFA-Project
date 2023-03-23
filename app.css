@@ -1,0 +1,16 @@
+/* CSS Basics : https://www.w3schools.com/html/html_css.asp */
+
+h1 {
+    color: red
+}
+
+.alpfa-default-text{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#special-styled-paragraph {
+    color: blue;
+    text-align: center;
+    border: 2px;
+}
